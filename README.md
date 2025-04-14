@@ -1,5 +1,5 @@
 - 👋 Aloha! this is my foray into the world of git. 
-- 👀 Just learning now, but look forward to substantively contributing soon
+- 👀 Portfolio captures (at this point) code created during grad school
 - Cheers!
 
 <!---
